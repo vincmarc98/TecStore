@@ -1,0 +1,6 @@
+#bounds{background-color:black;}
+.boundsPart{background-color:white;height:100%;}
+.boundsPartImage{background-color:green;width:100%;}
+.boundsPartText{background-color:yellow;width:100%;font-size:16px;}
+.circle{background-color:black;border-radius:50%;}
+.circleText{color:black;border-radius:50%;}

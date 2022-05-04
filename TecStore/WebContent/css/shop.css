@@ -1,0 +1,130 @@
+img#shopImg{
+    position: relative;
+    width: 200px;
+    height: 170px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+img#shopImg:hover{
+	width: 240px;
+    height: 240px;
+}
+
+div.bigger{
+	align:center;
+	margin-bottom:5%;
+	margin-left:12%;
+	margin-right:6%;
+	margin-top:5%;
+	float:left;
+	width:300px;
+	height:300px;
+}
+
+div.little{
+	text-align:center;
+	margin-bottom:10%;
+}
+
+input#markBar{
+	margin-bottom:2%;
+}
+
+
+a.buttonlist{
+	color:#f0f0f0;
+	text-align:center;
+	text-transform:uppercase;
+	display:inline-block;
+	border-radius:7px;
+	padding:10px;
+	font-family:rounded;
+	text-decoration:none;
+	background-color:#00ae6d;
+}
+
+a.buttonlist:link{
+	color:#f0f0f0;
+	text-align:center;
+	text-transform:uppercase;
+	text-decoration:none;
+	background-color:#00ae6d;
+}
+
+a.buttonlist:visited{
+	color:#f0f0f0;
+	text-align:center;
+	text-transform:uppercase;
+	text-decoration:none;
+	background-color:#00ae6d;
+}
+
+a.buttonlist:hover{
+	background-color:#666666;
+	color:white;
+}
+
+a.navbar:link{
+	color:#b76666;
+}
+
+a.navbar:visited{
+	color:#b76666
+}
+
+a#getback{
+	margin-left:75%;
+		text-transform:uppercase;
+	font-size:160%;
+	font-weight:bold;
+}
+
+div#columnNavProduct ul {
+	margin-bottom: 2%;
+	margin-left: 30%;
+	margin-right: 20%;
+	position: relative;
+	display:inline;
+}
+
+ul.columnUl li {
+	display: inline;
+	font-size: 150%;
+	font-style: bold;
+}
+
+span.separator {
+	color: #00003e;
+}
+
+h2.mark {
+	color: #00ae6d;
+	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: 700;
+	line-height: 20.9px;
+}
+
+div.paging{
+	margin-left:80%;
+	margin-top:2%;
+	text-transform:uppercase;
+	font-size:130%;
+	font-weight:bold;
+}
+
+div#nextPage{
+		
+	margin-right:2%;
+	
+}
+
+a#nextPageAhref{
+	font-size:130%;
+	font-weight:bold;
+	text-transform:uppercase;
+}
